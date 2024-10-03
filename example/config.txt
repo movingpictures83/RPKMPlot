@@ -1,0 +1,2 @@
+Prefix plugins/RPKMPlot/example/
+Plugin RPKMPlot inputfile parameters.txt outputfile rpkmplot

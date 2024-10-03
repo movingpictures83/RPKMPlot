@@ -1,0 +1,6 @@
+dataset	montgomery.csv
+sizefactors	sizeFactors.csv
+covar	uCovar.csv
+cqnsubset	cqnplot.rds
+grp1	grp1.txt
+grp2	grp2.txt
